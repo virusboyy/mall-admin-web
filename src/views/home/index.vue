@@ -7,6 +7,7 @@
             <div class="layout-title">后台项目</div>
             <div class="color-main address-content">
               <a href="https://github.com/macrozheng/mall">mall</a>
+              <a href="https://github.com/macrozheng/mall">mall</a>
             </div>
           </div>
         </el-col>
